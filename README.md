@@ -1,2 +1,2 @@
 # home-monitor
-Microcontroller project to monitor humidity using humidity sensor and LCD display
+Microcontroller project to monitor humidity & temperature using DHT11 sensor and LCD display
