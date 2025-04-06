@@ -40,6 +40,8 @@ Connect the hardware components according to [this TinkerCad circuit](https://ww
 # Voila
 
 
+![real](/images/home-monitor-real.png)
+
 
 
 
