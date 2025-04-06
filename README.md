@@ -6,7 +6,7 @@ Home monitor is a simple arduino project to measure and display temperature and 
 Many homes might unknowingly have suboptimal environmental conditions, as did I.
 For many years I suffered from dry skin without any real explanation as to why.
 That was until I found out humidity in your home can affect and exasperbate skin conditions. 
-And so, to find out what the humidity in my home was, this project spawned.
+And so, see what the humidity in my home was, this project spawned.
 Optimal conditions at home should have a humidity between 40-60%. Too low can cause sore throat, dry skin and more.
 Turns out, my home had 16%(!) humidity. No wonder my skin was dry I've lived here for 5+ years! Maybe my ex wouldn't have left me too cause she hated my dry skin!
 Anyways I got a humidifier now and I continously monitor the humidity in my home due to this awesome little project.
