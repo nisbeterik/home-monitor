@@ -24,7 +24,7 @@ Anyways I got a humidifier now and I continously monitor the humidity in my home
 
 Connect the hardware components according to [this TinkerCad circuit](https://www.tinkercad.com/things/dgOiOh0pDyb-fantabulous-kieran?sharecode=1VdvSlxLCrUtM1jq7wUfUPt5aGqMD5RTtREEj_-soUg)
 
-[!tinkerimage](/images/connection.png)
+![tinkerimage](/images/connection.png)
 
 - Install [Arduino CLI](https://docs.arduino.cc/arduino-cli/installation/)
 
